@@ -30,7 +30,7 @@
     ]
   },
 
-  "product-image": {
+  "product-images": {
     "props": {
       "displayThumbnailArrows": true
     }
