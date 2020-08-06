@@ -10,7 +10,7 @@
       "marginTop": 6
     },
     "children": [
-      "flex-layout.col#lef", "flex-layout.col#right"
+      "flex-layout.col#left", "flex-layout.col#right"
     ]
   },
 
@@ -19,7 +19,7 @@
       "product-images"
     ]
   },
-  
+
   "product-images": {
     "props": {
       "displayThumbnailArrows": true
