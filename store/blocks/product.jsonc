@@ -1,7 +1,7 @@
 {
   "store.product": {
     "children": [
-      "fles-layout.row#main"
+      "flex-layout.row#main"
     ]
   },
 
@@ -28,6 +28,12 @@
     "children": [
       "product-name", "product-price", "buy-button"
     ]
+  },
+
+  "product-image": {
+    "props": {
+      "displayThumbnailArrows": true
+    }
   },
 
   "product-name": {
