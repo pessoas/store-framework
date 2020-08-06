@@ -14,10 +14,16 @@
     ]
   },
 
-  "flex-layout.col#left" : {
+  "flex-layout.col#left": {
     "children": [
       "product-images"
     ]
+  },
+  
+  "product-images": {
+    "props": {
+      "displayThumbnailArrows": true
+    }
   },
 
   "flex-layout.col#right": {
@@ -28,12 +34,6 @@
     "children": [
       "product-name", "product-price", "buy-button"
     ]
-  },
-
-  "product-images": {
-    "props": {
-      "displayThumbnailArrows": true
-    }
   },
 
   "product-name": {
