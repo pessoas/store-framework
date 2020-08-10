@@ -51,14 +51,14 @@
     ]
   },
 
-  "tab-list": {
+  "tab-list#home": {
     "children": [
       "tab-list.item#home1",
       "tab-list.item#home2"
     ]
   },
 
-  "tab-content": {
+  "tab-content#home": {
     "children": [
       "tab-content.item#home1",
       "tab-content.item#home2"
